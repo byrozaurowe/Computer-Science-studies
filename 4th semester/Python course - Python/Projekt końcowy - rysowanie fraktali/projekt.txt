@@ -1,0 +1,40 @@
+﻿Nazwa projektu: "Chaos Games"
+
+Grupa: 250131, 250137, 250350
+
+Prowadzący: Gotfryd
+
+Repozytorium projektu: https://github.com/Wojtaz99/Chaos-Games.git
+
+## Krótki opis stanu projektu na:
+
+
+# 2020.04.26 po I tygodniu
+
+Zaznajomienie się z tematyką Chaos Games
+
+
+# 2020.05.03 po II tygodniu
+
+Rysowanie Trójkąta Sierpińskiego (z kolorami odpowiednimi do wierzchołków)
+
+
+# 2020.05.10 po III tygodniu
+
+Rysowanie pozostałych wielokątów foremnych z uwzględnieniem prawdopodobieństwa wierzchołków (mapowanie prawdopodobieństwa)
+
+
+# 2020.05.17 po IV tygodniu
+
+Rysowanie Paprotki Barnsleya (funkcja na postawie jednego punktu) i śnieżynki (na bazie pięciokąta z wierzchołkiem w środku, zmiana długości "skoku")
+
+
+# 2020.05.24 po V tygodniu
+
+Rysowanie figury na bazie kwadratu z zasadą nie przeskakiwania do wierzchołka położonego obok (przeciwnie do wskazówek zegara) ostatnio odwiedzonego
+Poprawki w rozmiarach i ilości kropek podczas rysowania oraz przy obliczaniu prawdopodobieństwa
+
+
+# 2020.05.29 po VI tygodniu (koniec projektu)
+
+Udało się wszystko, co pisaliśmy w mailu, a nawet więcej. Mamy aż 8 figur foremnych, których kształt można zmieniać. Można zmieniać prawdopodobieństwo wyboru danego punktu, co znacząco wpływa na wynik. Do tego 3 kształty niestandardowe. Generujemy też używając Zbiorów Julii kształt zależny od podanych liczb zespolonych.
